@@ -1,0 +1,7 @@
+C:\Users\natip\Desktop\asdc\bcd\bcd\obj\Debug\bcd.csprojAssemblyReference.cache
+C:\Users\natip\Desktop\asdc\bcd\bcd\obj\Debug\bcd.csproj.CoreCompileInputs.cache
+C:\Users\natip\Desktop\asdc\bcd\bcd\bin\Debug\bcd.exe.config
+C:\Users\natip\Desktop\asdc\bcd\bcd\bin\Debug\bcd.exe
+C:\Users\natip\Desktop\asdc\bcd\bcd\bin\Debug\bcd.pdb
+C:\Users\natip\Desktop\asdc\bcd\bcd\obj\Debug\bcd.exe
+C:\Users\natip\Desktop\asdc\bcd\bcd\obj\Debug\bcd.pdb

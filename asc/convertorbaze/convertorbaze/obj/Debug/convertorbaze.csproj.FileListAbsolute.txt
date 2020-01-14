@@ -1,0 +1,7 @@
+C:\Users\natip\Desktop\asdc\convertorbaze\convertorbaze\obj\Debug\convertorbaze.csprojAssemblyReference.cache
+C:\Users\natip\Desktop\asdc\convertorbaze\convertorbaze\obj\Debug\convertorbaze.csproj.CoreCompileInputs.cache
+C:\Users\natip\Desktop\asdc\convertorbaze\convertorbaze\bin\Debug\convertorbaze.exe.config
+C:\Users\natip\Desktop\asdc\convertorbaze\convertorbaze\bin\Debug\convertorbaze.exe
+C:\Users\natip\Desktop\asdc\convertorbaze\convertorbaze\bin\Debug\convertorbaze.pdb
+C:\Users\natip\Desktop\asdc\convertorbaze\convertorbaze\obj\Debug\convertorbaze.exe
+C:\Users\natip\Desktop\asdc\convertorbaze\convertorbaze\obj\Debug\convertorbaze.pdb

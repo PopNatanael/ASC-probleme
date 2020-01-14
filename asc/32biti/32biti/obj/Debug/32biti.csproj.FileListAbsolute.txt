@@ -1,0 +1,7 @@
+C:\Users\natip\Desktop\asdc\32biti\32biti\obj\Debug\32biti.csprojAssemblyReference.cache
+C:\Users\natip\Desktop\asdc\32biti\32biti\obj\Debug\32biti.csproj.CoreCompileInputs.cache
+C:\Users\natip\Desktop\asdc\32biti\32biti\bin\Debug\32biti.exe.config
+C:\Users\natip\Desktop\asdc\32biti\32biti\bin\Debug\32biti.exe
+C:\Users\natip\Desktop\asdc\32biti\32biti\bin\Debug\32biti.pdb
+C:\Users\natip\Desktop\asdc\32biti\32biti\obj\Debug\32biti.exe
+C:\Users\natip\Desktop\asdc\32biti\32biti\obj\Debug\32biti.pdb
